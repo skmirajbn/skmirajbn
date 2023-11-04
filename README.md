@@ -7,7 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/skmirajbn" target="blank"><img src="https://img.shields.io/twitter/follow/skmirajbn?logo=twitter&style=for-the-badge" alt="skmirajbn" /></a> </p>
 
+- 💼 Worked on Social Media Project [IsDB Connect](https://isdbsocialmedia.skmiraj.online)
+
+- 🌱 I’m currently studying **IsDB BISEW**
+
+- 💼 Worked on POS Software [Storemanagement](http://storemanagement.skmiraj.online/)
+
+- 💼 Worked on Hostel Management Project [Super Hostel Bd](https://nextsuperhostelidb.skmiraj.online/)
+
 - 👨‍💻 My personal portfolio link is [http://skmiraj.online](http://skmiraj.online)
+
+- 💬 Ask me about **React, Vue and Laravel**
+
+- 📫 How to reach me **skmirajbn@gmail.com**
+
+- 📄 Know about my experiences [http://skmiraj.online](http://skmiraj.online)
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
