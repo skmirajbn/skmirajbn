@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sk Miraj</h1>
 <h3 align="center">A passionate Full Stack Developer based in Dhaka</h3>
 
+![image](https://github.com/skmirajbn/skmirajbn/assets/67829716/bf66849a-efbf-44c9-aa3b-100f28ebfc1a)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skmirajbn&label=Profile%20views&color=0e75b6&style=flat" alt="skmirajbn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skmirajbn" alt="skmirajbn" /></a> </p>
